@@ -3,7 +3,7 @@
 const basic = { // 基础设置
     favicon: 'https://blog.dancingsnow.xyz/images/avatar.png', // 页面图标
     title: '(～￣▽￣)～', // 页面标题
-    avatar: 'https://gravatar.loli.net/avatar/', // 头像 URL
+    avatar: 'https://blog.dancingsnow.xyz/images/avatar.png', // 头像 URL
     name: 'DancingSnow', // 头像下的昵称
     sign: '快给我打钱~', // 个性签名或提示文字，可使用 HTML 格式
     user_page: 'https://blog.dancingsnow.xyz/', // 非支付软件点击头像或名字时跳转链接。留空或删除则不跳转

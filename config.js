@@ -28,10 +28,5 @@ const urls = [ // 付款方式列表
         name: '支付宝', // 名称
         ua: 'Alipay', // User-Agent 正则表达式
         addr: 'https://qr.alipay.com/fkx13158ykg6exwh3ncxm7d' // 收款码 URL
-    },
-    {
-        name: '微信',
-        ua: 'MicroMessenger\/',
-        img: 'wechat.png' // 使用 img 而非 addr 参数以使用赞赏码
     }
 ]
